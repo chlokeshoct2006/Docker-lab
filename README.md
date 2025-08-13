@@ -7,8 +7,8 @@ current date.
 
  simple-java-docker/
 
-├── Dockerfile
-├── src/
-│ └── Main.java
+├── Dockerfile <br>
+├── src/ <br>
+│ └── Main.java<br>
 └── README.md
 
